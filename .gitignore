@@ -31,3 +31,5 @@ plugins/SASL/data/output/SASLLog.txt
 plugins/SASL/data/modules/configuration/wprefs.ini
 Thumbs.db
 *.log
+
+A318_prefs.txt
